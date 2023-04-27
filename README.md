@@ -35,3 +35,11 @@ Zod for data validation.
 React Router for navigation between pages.
 Vitest for unit testing.
 React Testing Library for simulating events and interactions with the interface.
+
+
+
+# Application
+
+<img src="![stone1](https://user-images.githubusercontent.com/105742162/234953704-a25dd975-25fa-4bde-8625-e4aeeff93484.png)" />
+<img src"![stone2](https://user-images.githubusercontent.com/105742162/234953741-8d81d075-3a9a-4482-a17d-383153e27e31.png)" />
+<img src="![stone3](https://user-images.githubusercontent.com/105742162/234953761-d26f2efb-9ce2-41f4-9249-bb8dd4fdca31.png)" />
