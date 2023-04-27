@@ -40,4 +40,7 @@ React Testing Library for simulating events and interactions with the interface.
 
 # Application
 
+<img src="https://user-images.githubusercontent.com/105742162/234954131-f89d5965-578a-43e3-9234-6a81116f4f48.png">
+<img src="https://user-images.githubusercontent.com/105742162/234954142-b8d4cb4e-4e28-4c37-955a-07faa5f1a685.png">
+<img src="https://user-images.githubusercontent.com/105742162/234954148-3d1aaaba-dbc0-4f68-a31b-3158252cbf84.png">
 
